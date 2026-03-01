@@ -1,6 +1,8 @@
 # Real-Time Chat Application
 A full-stack, real-time messaging platform built with the MERN stack, featuring instant messaging, user presence tracking, and a modern UI.
 
+ Live:- https://mern-stack-real-time-chat-application-k1l4.onrender.com/login
+
 # Features
 - Real-time Messaging: Powered by Socket.io for instantaneous message delivery.
 - User Presence: Track online users in real-time using a custom userSocketMap.
@@ -12,17 +14,27 @@ A full-stack, real-time messaging platform built with the MERN stack, featuring 
 
 # Tech Stack
 # Frontend
+
 Framework: React (Vite)
+
 Styling: Tailwind CSS & DaisyUI
+
 State Management: Zustand
+
 Icons: Lucide React
+
 HTTP Client: Axios
 
 # Backend
+
 Runtime: Node.js
+
 Framework: Express.js
+
 Database: MongoDB (via Mongoose)
+
 Real-time: Socket.io
+
 Auth: Cookie-parser & Dotenv
 
 # Setup Instructions
